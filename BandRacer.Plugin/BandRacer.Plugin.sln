@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandRacer.Plugin", "BandRacer.Plugin\BandRacer.Plugin.csproj", "{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandRacer.Plugin.WinPRT", "BandRacer.Plugin.WinPRT\BandRacer.Plugin.WinPRT.csproj", "{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}.Release|ARM.ActiveCfg = Release|Any CPU
+		{C97CBA5A-7CCD-426A-A7EA-4CBB633C6CCC}.Release|x86.ActiveCfg = Release|Any CPU
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Debug|ARM.ActiveCfg = Debug|ARM
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Debug|ARM.Build.0 = Debug|ARM
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Debug|x86.ActiveCfg = Debug|x86
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Debug|x86.Build.0 = Debug|x86
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Release|Any CPU.ActiveCfg = Release|ARM
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Release|Any CPU.Build.0 = Release|ARM
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Release|ARM.ActiveCfg = Release|ARM
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Release|ARM.Build.0 = Release|ARM
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Release|x86.ActiveCfg = Release|x86
+		{6D1B2DC6-8BC3-4E51-ACAF-735209A307CC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BandRacer", "BandRacer\BandRacer.csproj", "{9A513B19-3E02-41BF-8968-58BC58B0A6B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Master|Any CPU = Master|Any CPU
+		Master|ARM = Master|ARM
+		Master|Mixed Platforms = Master|Mixed Platforms
+		Master|x86 = Master|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|ARM.Build.0 = Debug|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|ARM.Deploy.0 = Debug|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|Mixed Platforms.ActiveCfg = Debug|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|Mixed Platforms.Build.0 = Debug|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|Mixed Platforms.Deploy.0 = Debug|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|x86.ActiveCfg = Debug|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|x86.Build.0 = Debug|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Debug|x86.Deploy.0 = Debug|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|Any CPU.ActiveCfg = Master|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|ARM.ActiveCfg = Master|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|ARM.Build.0 = Master|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|ARM.Deploy.0 = Master|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|Mixed Platforms.ActiveCfg = Master|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|Mixed Platforms.Build.0 = Master|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|Mixed Platforms.Deploy.0 = Master|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|x86.ActiveCfg = Master|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|x86.Build.0 = Master|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Master|x86.Deploy.0 = Master|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|Any CPU.ActiveCfg = Release|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|ARM.ActiveCfg = Release|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|ARM.Build.0 = Release|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|ARM.Deploy.0 = Release|ARM
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|Mixed Platforms.Deploy.0 = Release|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|x86.ActiveCfg = Release|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|x86.Build.0 = Release|x86
+		{9A513B19-3E02-41BF-8968-58BC58B0A6B3}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
